@@ -1,0 +1,120 @@
+Important (For the output printed below): Step 0 designates the second step, e.g., in S—>C—>S, it designates the step where C is played. (This is because the first action does not correspond to an action by either player, if I understood correctly?) Here goes:
+
+Strategy Profile: ('CC', 'SS')
+No Deviation:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: N/A
+
+Player 1 Deviation to SS:
+S—>S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 0
+
+Player 1 Deviation to SC:
+S—>S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 0
+
+Player 1 Deviation to CS:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to SC:
+S—>C—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 1
+
+Player 2 Deviation to CS:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to CC:
+S—>C—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 1
+
+
+Strategy Profile: ('CS', 'SS')
+No Deviation:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: N/A
+
+Player 1 Deviation to SS:
+S—>S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 0
+
+Player 1 Deviation to SC:
+S—>S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 0
+
+Player 1 Deviation to CC:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to SC:
+S—>C—>C—>S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 1
+
+Player 2 Deviation to CS:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to CC:
+S—>C—>C—>S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 1
+
+
+Strategy Profile: ('CC', 'CS')
+No Deviation:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: N/A
+
+Player 1 Deviation to SS:
+S—>S—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 0
+
+Player 1 Deviation to SC:
+S—>S—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 0
+
+Player 1 Deviation to CS:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to SS:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to SC:
+S—>C—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 1
+
+Player 2 Deviation to CC:
+S—>C—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: 1
+
+
+Strategy Profile: ('CS', 'CS')
+No Deviation:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: N/A
+
+Player 1 Deviation to SS:
+S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C
+Deviation step: 0
+
+Player 1 Deviation to SC:
+S—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C
+Deviation step: 0
+
+Player 1 Deviation to CC:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to SS:
+S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S
+Deviation step: None
+
+Player 2 Deviation to SC:
+S—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C
+Deviation step: 1
+
+Player 2 Deviation to CC:
+S—>C—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C—>S—>C
+Deviation step: 1
